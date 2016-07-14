@@ -1,0 +1,9 @@
+2016-07-14 09:37:09,092 [Worker-41] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mavenproj2:maven2:0.0.1-SNAPSHOT @ C:\git\maven2\pom.xml.
+2016-07-14 09:37:10,420 [Worker-41] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /maven2/src/main/java
+2016-07-14 09:37:10,424 [Worker-41] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /maven2/src/main/resources
+2016-07-14 09:37:10,425 [Worker-41] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /maven2/src/test/java
+2016-07-14 09:37:10,426 [Worker-41] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /maven2/src/test/resources
+2016-07-14 09:37:11,364 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-14 09:37:11,387 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-14 09:37:11,396 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-14 09:37:11,398 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
