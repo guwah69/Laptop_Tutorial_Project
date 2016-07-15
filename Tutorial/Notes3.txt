@@ -1,0 +1,11 @@
+C:\Jenkins
+
+%JAVA_HOME%\bin
+
+%M2_HOME%\bin
+
+Git Tutorial: https://www.youtube.com/watch?v=XiQnN-igNoc&list=PL6gx4Cwl9DGAKWClAD_iKpNC0bGHxGhcx&index=4#t=7.897202
+
+How to run Maven Project from Jenkins CI: https://www.youtube.com/watch?v=eIldJE4tSlA
+
+Testing git
